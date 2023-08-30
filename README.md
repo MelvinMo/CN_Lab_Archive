@@ -34,3 +34,18 @@ So the key topics covered across all the labs are:
 - Switching and VLANs (Lab 8)
 
 ## Project
+This project encompasses the design and simulation of an enterprise network environment consisting of:
+- Routing - Utilizing both static routing and dynamic routing protocol (RIP)
+- Switching - VLAN configuration, trunk ports, inter-VLAN routing
+- Services - DHCP, DNS, Web, Mail servers
+- Security - ACLs for traffic filtering
+
+The network is modeled in Cisco Packet Tracer and involves:
+* Configuring the network topology and IP addressing
+* Implementing VLANs on the switches
+* Setting up trunk ports between switches
+* Assigning switch ports to appropriate VLANs
+* Enabling inter-VLAN routing on the layer-3 switch
+* Configuring the routing protocol (RIP) on the routers
+* Implementing essential network services like DHCP, DNS, Web, Mail servers
+* Testing connectivity between different endpoints
