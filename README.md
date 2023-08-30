@@ -1,5 +1,5 @@
 # CN_Lab_Archive
-This repository comprises laboratory experiments and accompanying technical reports that demonstrate proficiency in computer networking concepts and technologies in the computer networks lab undergraduate course. The repository encompasses eight meticulously documented lab sessions that impart practical knowledge on essential topics including IP connectivity, network security, traffic analysis, routing protocols, VLAN switching, and Linux/Cisco IOS configuration. Additionally, the repository contains the culminating lab project, an original adaptive network design modeled and simulated in the Cisco Packet Tracer network emulator.
+This repository comprises laboratory experiments and accompanying technical reports that demonstrate proficiency in computer networking concepts and technologies in the computer networks lab undergraduate course. The repository encompasses eight meticulously documented lab sessions that impart practical knowledge on essential topics including IP connectivity, network security, traffic analysis, routing protocols, VLAN switching, and Linux/Cisco IOS configuration. Additionally, the repository contains the final lab project, a complex enterprise network environment design that was physically implemented with network routers and switches and simulated virtually in the Cisco Packet Tracer network emulator.
 
 ## Assignments
 ### Lab 1
@@ -34,7 +34,8 @@ So the key topics covered across all the labs are:
 - Switching and VLANs (Lab 8)
 
 ## Project
-This project encompasses the design and simulation of an enterprise network environment consisting of:
+This project encompasses the design and simulation of an enterprise network environment, both physically through routers and switches and virtually in the Cisco Packet Tracer network emulator.
+This project consists of:
 - Routing - Utilizing both static routing and dynamic routing protocol (RIP)
 - Switching - VLAN configuration, trunk ports, inter-VLAN routing
 - Services - DHCP, DNS, Web, Mail servers
@@ -49,3 +50,7 @@ The network is modeled in Cisco Packet Tracer and involves:
 * Configuring the routing protocol (RIP) on the routers
 * Implementing essential network services like DHCP, DNS, Web, Mail servers
 * Testing connectivity between different endpoints
+* 
+<p align="center">
+  <img src="https://github.com/MelvinMo/CN_Lab_Archive/blob/main/Project/ScenarioSamp.png" alt="IMG" />
+</p>
