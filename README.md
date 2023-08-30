@@ -50,7 +50,6 @@ The network is modeled in Cisco Packet Tracer and involves:
 * Configuring the routing protocol (RIP) on the routers
 * Implementing essential network services like DHCP, DNS, Web, Mail servers
 * Testing connectivity between different endpoints
-
 <p align="center">
   <img src="https://github.com/MelvinMo/CN_Lab_Archive/blob/main/Project/ScenarioSamp.png" alt="IMG" />
 </p>
